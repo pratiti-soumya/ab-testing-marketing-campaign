@@ -58,6 +58,12 @@ This project analyzes a simulated A/B test comparing two email marketing campaig
 ## 📁 Files in This Repository
 
 - `A_B_Testing_Notebook.ipynb` → Full project notebook with code, charts, and markdowns
+- `funnel_stage_visuals/` → Folder containing exported funnel images and charts from the analysis
+
+│   ├── open_rate_funnel.png
+│   ├── ctr_funnel.png
+│   ├── final_conversion_funnel.png
+│   └── bayesian_posteriors.png
 - `README.md` → This file
 
 ---
@@ -74,7 +80,7 @@ This project analyzes a simulated A/B test comparing two email marketing campaig
 ## 📌 Author
 
 **[Pratiti Soumya]**  
-[LinkedIn](https://linkedin.com/in/pratitisoumya) • [Portfolio](https://yourportfolio.com) • [Email](mailto:pratitisoumya11@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/pratiti-soumya/) • [Portfolio](https://www.datascienceportfol.io/prati) • [Email](mailto:pratitisoumya11@outlook.com)
 
 ---
 
