@@ -59,11 +59,10 @@ This project analyzes a simulated A/B test comparing two email marketing campaig
 
 - `A_B_Testing_Notebook.ipynb` → Full project notebook with code, charts, and markdowns
 - `funnel_stage_visuals/` → Folder containing exported funnel images and charts from the analysis
-
---   ├── open_rate_funnel.png
---   ├── ctr_funnel.png
---   ├── final_conversion_funnel.png
---   └── bayesian_posteriors.png
+  - ├── open_rate_funnel.png
+  - ├── ctr_funnel.png
+  - ├── final_conversion_funnel.png
+  - └── bayesian_posteriors.png
 - `README.md` → This file
 
 ---
